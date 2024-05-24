@@ -58,7 +58,7 @@ docker run -d discordbot
 ## Author
 
 
-Adrian Pascalin based on fork of Gabriel Tanner
+chataros based on fork of Gabriel Tanner
 
 ## Support me
 
